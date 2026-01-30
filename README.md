@@ -1,4 +1,6 @@
 # Aman Storage Manager PRO 🚀
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR-USERNAME/AmanStorageManager?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YOUR-USERNAME/AmanStorageManager?style=social)
 
 **Advanced Termux Storage Manager Tool**  
 Author: Aman (Junoon Khan)  
