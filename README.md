@@ -1,4 +1,7 @@
+![Banner](./screenshots/banner.png)
+
 # Aman Storage Manager PRO 🚀
+
 
 **Advanced Termux Storage Manager Tool**  
 Author: Aman (Junoon Khan)  
